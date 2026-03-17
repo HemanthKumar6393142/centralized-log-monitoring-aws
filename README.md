@@ -86,28 +86,28 @@ Designed and implemented a centralized logging architecture that:
 ## 📸 Project Screenshots
 
 ### EC2 Instances
-![EC2](screenshots/01-ec2-instances.png)
+![EC2](screenshots/ec2-instances.png)
 
 ### Centralized Logs
-![Logs](screenshots/02-log-group.png)
+![Logs](screenshots/log-group.png)
 
 ### Error Metric
-![Metric](screenshots/03-error-metric.png)
+![Metric](screenshots/error-metric.png)
 
 ### Alarm Trigger
-![Alarm](screenshots/04-alarm.png)
+![Alarm](screenshots/alarm.png)
 
 ### SNS Alert
-![SNS](screenshots/05-sns-email.png)
+![SNS](screenshots/sns-email.png)
 
 ### Lambda Automation
-![Lambda](screenshots/06-lambda.png)
+![Lambda](screenshots/lambda.png)
 
 ### Log Archive in S3
-![S3](screenshots/07-s3-logs.png)
+![S3](screenshots/s3-logs.png)
 
 ### Monitoring Dashboard
-![Dashboard](screenshots/08-dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
