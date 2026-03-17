@@ -86,7 +86,7 @@ Designed and implemented a centralized logging architecture that:
 ## 📸 Project Screenshots
 
 ### EC2 Instances
-![EC2](screenshots/ec2-instances.png)
+![EC2](screenshots/ec2.png)
 
 ### Centralized Logs
 ![Logs](screenshots/log-group.png)
